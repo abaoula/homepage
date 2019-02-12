@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Despland on SC Nicolis homepage</title>
+    <link>/authors/e.-despland/</link>
+    <description>Recent content in E. Despland on SC Nicolis homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/e.-despland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collective decision-making and behavioral polymorphism in group living organisms</title>
+      <link>/publication/nicolis-2008-b/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nicolis-2008-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual differences influence collective behaviour in social caterpillars</title>
+      <link>/publication/dussutour-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dussutour-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do ants and social caterpillars collectively make decisions?</title>
+      <link>/publication/dussutour-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dussutour-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

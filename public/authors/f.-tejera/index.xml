@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Tejera on SC Nicolis homepage</title>
+    <link>/authors/f.-tejera/</link>
+    <description>Recent content in F. Tejera on SC Nicolis homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/f.-tejera/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foraging at the edge of chaos: internal clock versus external forcing</title>
+      <link>/publication/nicolis-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nicolis-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

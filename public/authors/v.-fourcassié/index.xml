@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Fourcassié on SC Nicolis homepage</title>
+    <link>/authors/v.-fourcassi%C3%A9/</link>
+    <description>Recent content in V. Fourcassié on SC Nicolis homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/v.-fourcassi%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Individual rules for trail pattern formation in Argentine ants (Linepithema humile)</title>
+      <link>/publication/perna-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/perna-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective decisions in ants when foraging under crowded conditions</title>
+      <link>/publication/dussutour-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/dussutour-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial patterns in ant colonies</title>
+      <link>/publication/theraulaz-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/theraulaz-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

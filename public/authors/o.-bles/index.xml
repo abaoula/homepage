@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Bles on SC Nicolis homepage</title>
+    <link>/authors/o.-bles/</link>
+    <description>Recent content in O. Bles on SC Nicolis homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/o.-bles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Food dissemination in ants: Robustness of the trophallactic network against resource quality</title>
+      <link>/publication/blesjeb-192492/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/blesjeb-192492/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Detrain on SC Nicolis homepage</title>
+    <link>/authors/c.-detrain/</link>
+    <description>Recent content in C. Detrain on SC Nicolis homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/c.-detrain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimality of communication in self-organised social behaviour</title>
+      <link>/publication/deneubourg-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/deneubourg-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimality of Collective Choices: A Stochastic Approach</title>
+      <link>/publication/nicolis-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/nicolis-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

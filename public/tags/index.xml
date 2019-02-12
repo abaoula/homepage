@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SC Nicolis homepage</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on SC Nicolis homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ants; Synchronization; Oscillators</title>
+      <link>/tags/ants-synchronization-oscillators/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/ants-synchronization-oscillators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autocatalysis</title>
+      <link>/tags/autocatalysis/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/autocatalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entropy production</title>
+      <link>/tags/entropy-production/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/entropy-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feedback circuits</title>
+      <link>/tags/feedback-circuits/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/feedback-circuits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximum-entropy Production</title>
+      <link>/tags/maximum-entropy-production/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/maximum-entropy-production/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multistability</title>
+      <link>/tags/multistability/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/multistability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear dynamics</title>
+      <link>/tags/nonlinear-dynamics/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/nonlinear-dynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns</title>
+      <link>/tags/patterns/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/tags/patterns/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
