@@ -59,4 +59,5 @@ Projects ( [first](ADS/2011-ADS-project1.pdf) | [second](ADS/2011-ADS-project2.p
 - Nicolis, G. (1995). Introduction To Nonlinear Science. Cambridge University Press.
 - Landau, L. and Lifshitz, E. (1959). Fluid mechanics. Pergamon Press, Oxford.
 - De Groot, S. and Mazur, P (1962). Non equilibrium thermodynamics. North Holland, Amsterdam.
+
 +++
