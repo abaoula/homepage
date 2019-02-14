@@ -17,9 +17,9 @@ weight = 6
 
 ## Binary choice simulator for the cockroach model
 
-[Go to the tool](binary-choice-js/index.html)
+[Go to the tool](apps/binary-choice-js/index.html)
 
 ## Binomial distribution calculator
 
-[Go to the tool](binomial-js/index.html)
+[Go to the tool](apps/binomial-js/index.html)
 

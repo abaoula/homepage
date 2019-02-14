@@ -20,6 +20,14 @@
     
     <url>
     
+      <loc>/publication/belsxxxx/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/planas-2018/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
     </url>
@@ -364,21 +372,21 @@
     
     <url>
     
+      <loc>/apps/binary-choice-js/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/apps/binomial-js/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/author/admin/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/binary-choice-js/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/binomial-js/</loc>
     </url>
     
   
@@ -475,8 +483,7 @@
     
     <url>
     
-      <loc>/tags/ants-synchronization-oscillators/</loc>
-      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <loc>/apps/</loc>
       <priority>0</priority>
     </url>
     
@@ -494,15 +501,6 @@
     
       <loc>/authors/</loc>
       <lastmod>2015-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/autocatalysis/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -653,26 +651,8 @@
     
     <url>
     
-      <loc>/tags/entropy-production/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/authors/f.-tejera/</loc>
       <lastmod>2013-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/feedback-circuits/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -699,7 +679,7 @@
     <url>
     
       <loc>/authors/g.-sempo/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -725,15 +705,6 @@
     
     <url>
     
-      <loc>/authors/g.and-deneubourg-j.-l.-sempo/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/authors/h.-nicolis/</loc>
       <lastmod>2010-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -743,7 +714,7 @@
     
     <url>
     
-      <loc>/authors/i.-planas-sitj%C3%A0/</loc>
+      <loc>/authors/i.-planas-sitja/</loc>
       <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -842,24 +813,6 @@
     
     <url>
     
-      <loc>/tags/maximum-entropy-production/</loc>
-      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/multistability/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/authors/n.-colasurdo/</loc>
       <lastmod>2007-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -871,15 +824,6 @@
     
       <loc>/authors/n.-zabzina/</loc>
       <lastmod>2014-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/nonlinear-dynamics/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -925,15 +869,6 @@
     
       <loc>/authors/p.-fern%C3%A1ndez/</loc>
       <lastmod>2002-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/tags/patterns/</loc>
-      <lastmod>2005-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1067,26 +1002,17 @@
     
     <url>
     
-      <loc>/authors/s.c.-nicolis/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/authors/s.c..-nicolis/</loc>
-      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/t.-boehly/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1104,7 +1030,6 @@
     <url>
     
       <loc>/tags/</loc>
-      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1149,6 +1074,78 @@
     <url>
     
       <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ants-synchronization-oscillators/</loc>
+      <lastmod>2013-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/autocatalysis/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/entropy-production/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/feedback-circuits/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/maximum-entropy-production/</loc>
+      <lastmod>2011-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/multistability/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/nonlinear-dynamics/</loc>
+      <lastmod>2018-01-01T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/patterns/</loc>
+      <lastmod>2005-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

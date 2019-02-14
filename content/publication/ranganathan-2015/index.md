@@ -3,8 +3,8 @@ title = "Understanding democracy and development traps using a data-driven appro
 date = 2015-01-01
 authors = ["S. Ranganathan", "S. C. Nicolis", "V. Spaiser", "D. J. T. Sumpter"]
 publication_types = ["2"]
-abstract = ""
-selected = false
+abstract = "Methods from machine learning and data science are becoming increasingly important in the social sciences, providing powerful new ways of identifying statistical relationships in large data sets. However, these relationships do not necessarily offer an understanding of the processes underlying the data. To address this problem, we have developed a method for fitting nonlinear dynamical systems models to data related to social change. Here, we use this method to investigate how countries become trapped at low levels of socioeconomic development. We identify two types of traps. The first is a democracy trap, where countries with low levels of economic growth and/or citizen education fail to develop democracy. The second trap is in terms of cultural values, where countries with low levels of democracy and/or life expectancy fail to develop emancipative values. We show that many key developing countries, including India and Egypt, lie near the border of these development traps, and we investigate the time taken for these nations to transition toward higher democracy and socioeconomic well-being."
+featured = false
 publication = "*Big Data*"
 doi = "10.1089/big.2014.0066"
 +++
