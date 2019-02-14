@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on SC Nicolis homepage</title>
+    <link>/apps/</link>
+    <description>Recent content in Apps on SC Nicolis homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/apps/binary-choice-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/apps/binary-choice-js/</guid>
+      <description>        Parameters of the model  Number of individuals (\(N\))  Probability to join shelter 1 (\(\mu_1\))  Probability to join shelter 2 (\(\mu_2\))  Individual probability to leave shelter 1 (\(\theta_1\))  Individual probability to leave shelter 2 (\(\theta_2\))  Interattraction in shelter 1 (\(\alpha_1\))  Interattraction in shelter 2 (\(\alpha_2\))  Threshold value (\(K\))  Cooperativity (\(m\))    Parameters of the simulation  Number of timesteps  Number of simulations     Show plot Show stats Show data Download data   Binary choice cockroach model   $$\frac{d X_i}{dt} = \mu _i\left(N - \sum_{j=1}^2 X_j\right) -\frac{\theta_i}{K^m+\left(\alpha_i X_i\right)^m}X_i \quad i=1,2$$    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/apps/binomial-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/apps/binomial-js/</guid>
+      <description>         Number of individuals :  Probability of success :  Calculate probability between and   Show plot     </description>
+    </item>
+    
+  </channel>
+</rss>

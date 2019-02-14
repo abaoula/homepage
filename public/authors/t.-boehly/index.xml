@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Boehly on SC Nicolis homepage</title>
+    <link>/authors/t.-boehly/</link>
+    <description>Recent content in T. Boehly on SC Nicolis homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/authors/t.-boehly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Same length, different shapes: ants collectively choose a straight foraging path over a bent one</title>
+      <link>/publication/belsxxxx/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/belsxxxx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
