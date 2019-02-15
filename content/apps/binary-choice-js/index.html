@@ -15,15 +15,15 @@
 <div id="sidebar">
  <h2> Parameters of the model</h2>
 <table>
-<tr><td>Number of individuals (\(N\)) </td><td><input type="text" id="rn" /></td></tr>
-<tr><td>Probability to join shelter 1 (\(\mu_1\)) </td><td><input type="text" id="rmu1"/></td></tr>
-<tr><td>Probability to join shelter 2 (\(\mu_2\)) </td><td><input type="text" id="rmu2"/></td></tr>
-<tr><td>Individual probability to  leave shelter 1 (\(\theta_1\)) </td><td><input type="text" id="rtheta1"/></td></tr>
-<tr><td>Individual probability to  leave shelter 2  (\(\theta_2\)) </td><td><input type="text" id="rtheta2" /></td></tr>
-<tr><td>Interattraction in shelter 1  (\(\alpha_1\)) </td><td><input type="text" id="ralpha1"/></td></tr>
-<tr><td>Interattraction in shelter 2  (\(\alpha_2\)) </td><td><input type="text" id="ralpha2" /></td></tr>
-<tr><td>Threshold value  (\(K\)) </td><td><input type="text" id="rk" /></td></tr>
-<tr><td>Cooperativity  (\(m\)) </td><td><input type="text" id="rm"/></td></tr>
+<tr><td>\(N\) </td><td><input type="text" id="rn" /></td></tr>
+<tr><td>\(\mu_1\) </td><td><input type="text" id="rmu1"/></td></tr>
+<tr><td>\(\mu_2\) </td><td><input type="text" id="rmu2"/></td></tr>
+<tr><td>\(\theta_1\) </td><td><input type="text" id="rtheta1"/></td></tr>
+<tr><td>\(\theta_2\) </td><td><input type="text" id="rtheta2" /></td></tr>
+<tr><td>\(\alpha_1\) </td><td><input type="text" id="ralpha1"/></td></tr>
+<tr><td>\(\alpha_2\) </td><td><input type="text" id="ralpha2" /></td></tr>
+<tr><td>\(K\) </td><td><input type="text" id="rk" /></td></tr>
+<tr><td>\(m\) </td><td><input type="text" id="rm"/></td></tr>
 </table>
 <h2> Parameters of the simulation</h2>
 
@@ -42,8 +42,22 @@
 <div id="content">
 <h1> Binary choice cockroach model</h1>
 <br/>
+
+\(\frac{d X_i}{dt} = \mu _i\left(N - \sum_{j=1}^2 X_j\right) -\frac{\theta_i}{K^m+\left(\alpha_i X_i\right)^m}X_i \quad i=1,2\)
 <br/>
-$$\frac{d X_i}{dt} = \mu _i\left(N - \sum_{j=1}^2 X_j\right) -\frac{\theta_i}{K^m+\left(\alpha_i X_i\right)^m}X_i \quad i=1,2$$
+
+where 
+<br/>
+
+<ul>
+<li>\(X_i\) is the mean number of sheltered individuals on shelter \(i\)</li>
+<li>\(\mu_i\) is the individual probability to join shelter \(i\)</li>
+<li>\(\theta_i\) is the individual probability to leave shelter \(i\)</li>
+<li>\(\alpha_i\) is the inter-atraction in shelter \(i\)</li>
+<li>\(K\) is a threshold value \(i\)</li>
+<li>\(m\) is the cooperativity between individuals</li>
+
+</ul>
 
 <div id="myDiv" style="width: 99%; height: 600px; text-align: center;"></div>
 </div>

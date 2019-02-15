@@ -22,9 +22,9 @@ display: block;
 }
 
 .button {
-background-color: #fdc858;
+background-color: #dd5951;
 border: none;
-color: #2e383a;
+color: #EBEBEB;
 padding: 10px 10px;
 text-align: center;
 text-decoration: none;
@@ -52,17 +52,17 @@ clear: both;
 
 td{
 text-align:right;
-background-color: #2e383a;
-padding: 8px;
+background-color: #EBEBEB;
+padding: 3px;
 font-size : 14px;
 text-align: left;
-color: #fafafa;
+color: #2e383a;
 }
 
 /**/
 
 h2{
-color:#fdc858;
+color:#dd5951;
 padding: 20px;
 }
 
@@ -92,18 +92,19 @@ text-align: left;
 
 #sidebar {
 position: absolute;
-left: 0;
+left: 2;
 top: 0;
+margin-left: 20px;
 bottom: 0;
 display: block;
 height: auto;
 min-width: 40px;
-width: 440px;
-background-color: #2e383a;
+width: 340px;
+background-color: #EBEBEB;
 overflow-x: scroll;
-transition-delay: 0s;
+/* transition-delay: 0s;
 transition-duration: 0.4s;
 transition-property: all;
 transition-timing-function: line;
-box-shadow: 8px 6px 10px -6px #2e383a;
+box-shadow: 8px 6px 10px -6px #2e383a; */
 }
